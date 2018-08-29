@@ -12,11 +12,293 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "164081"
 tags: Variations
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-get
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-get-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-patch
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-patch-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariants-post
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-post-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-get
+  description: Family variants (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-get-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-patch
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-patch-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-get
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-get-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-patch
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-patch-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariants-post
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-post-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-get
+  description: Family variants (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-get-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-patch
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-patch-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariants-post
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-post-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariants-post
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-post-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariants-post
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-post-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-patch
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-patch-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-patch
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-patch-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-patch
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-patch-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-patch
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-patch-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-get
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-get-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-get
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-get-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-get
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-get-openapi.md
+- name: Official Akeneo PIM API - family variant (2.x only)
+  x-api-slug: restv1familiesclothingvariantsclothing-colorsize-get
+  description: Assuming that the given codes are respectively the code of an existing
+    family and an existing family variant
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariantsclothing-colorsize-get-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-patch
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-patch-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-patch
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-patch-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-patch
+  description: Assuming that the given code is the code of an existing family
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-patch-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-get
+  description: Family variants (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-get-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-get
+  description: Family variants (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-get-openapi.md
+- name: Official Akeneo PIM API - family variants (2.x only)
+  x-api-slug: restv1familiesclothingvariants-get
+  description: Family variants (2.x only).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/akeneo-logo.png
+  humanURL: https://akeneo.com
+  baseURL: https://example.com//api
+  tags: Technology, SaaS, Enterprise, Products, Commerce, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/akeneo/restv1familiesclothingvariants-get-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.akeneo.com/feed/

@@ -8,11 +8,86 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-squar
 x-kinRank: "9"
 x-alexaRank: "2433"
 tags: Variations
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/square/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Square Connect - Provides inventory information for all of a merchant's inventory-enabled
+    item variations.
+  x-api-slug: v1location-idinventory-get
+  description: Provides inventory information for all of a merchant's inventory-enabled
+    item variations.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/square/v1location-idinventory-get-openapi.md
+- name: Square Connect - Adjusts an item variation's current available inventory.
+  x-api-slug: v1location-idinventoryvariation-id-post
+  description: Adjusts an item variation's current available inventory.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/square/v1location-idinventoryvariation-id-post-openapi.md
+- name: Square Connect - Deletes an existing item and all item variations associated
+    with it.
+  x-api-slug: v1location-iditemsitem-id-delete
+  description: Deletes an existing item and all item variations associated with it.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/square/v1location-iditemsitem-id-delete-openapi.md
+- name: Square Connect - Creates an item and at least one variation for it.
+  x-api-slug: v1location-iditems-post
+  description: Creates an item and at least one variation for it.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/square/v1location-iditems-post-openapi.md
+- name: Square Connect - Creates an item and at least one variation for it.
+  x-api-slug: v1location-iditems-post
+  description: Creates an item and at least one variation for it.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/square/v1location-iditems-post-openapi.md
+- name: Square Connect - Creates an item and at least one variation for it.
+  x-api-slug: v1location-iditems-post
+  description: Creates an item and at least one variation for it.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg
+  humanURL: http://square.com
+  baseURL: https://connect.squareup.com//
+  tags: Payments, Credit Cards, Commerce, Stack Network, Financial Services, Mobile,
+    Technology, internet, Payments, Relative Data, Service API, Relative StreamRank,
+    Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/square/v1location-iditems-post-openapi.md
 x-common:
 - type: x-website
   url: http://square.com

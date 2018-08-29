@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Variations
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/plentymarkets/apis.md
 specificationVersion: "0.14"
 apis:
@@ -28,6 +28,40 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/plentymarkets/restitemsvariations-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/plentymarkets/restitemsvariations-get-openapi.md
+- name: plentymarkets REST-API - List all links between variations and markets
+  x-api-slug: restitemsvariationsvariation-markets-get
+  description: |-
+    Lists all links between variations and markets.
+    Results can be filtered by the ID of the variation and by the ID of the market, e.g. "variationId=1030"
+    lists all links of the variation with the ID 1030.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/plentymarkets/restitemsvariationsvariation-markets-get-openapi.md
+- name: plentymarkets REST-API - Create up to 50 links between variations and markets
+  x-api-slug: restitemsvariationsvariation-markets-post
+  description: Creates up to 50 links between variations and markets. The ID of the
+    variation and the ID of the market must be specified.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/plentymarkets/restitemsvariationsvariation-markets-post-openapi.md
+- name: plentymarkets REST-API - List variations of an item
+  x-api-slug: restitemsitemidvariations-get
+  description: Lists all variations of an item. The ID of the item must be specified.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/plentymarkets/restitemsitemidvariations-get-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.plentymarkets.co.uk/?ActionCall=WebActionRSS&rrss_id=1

@@ -9,11 +9,55 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jump
 x-kinRank: "7"
 x-alexaRank: "153745"
 tags: Variations
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Jumpseller - Get Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-get-openapi.md
+- name: Jumpseller - Put Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-put
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-put-openapi.md
+- name: Jumpseller - Get Products Variants
+  x-api-slug: productsidvariants-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariants-json-get-openapi.md
+- name: Jumpseller - Post Products Variants
+  x-api-slug: productsidvariants-json-post
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariants-json-post-openapi.md
 - name: Jumpseller - Get Products Variants Count
   x-api-slug: productsidvariantscount-json-get
   description: ""
@@ -27,6 +71,72 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantscount-json-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantscount-json-get-openapi.md
+- name: Jumpseller - Get Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-get-openapi.md
+- name: Jumpseller - Put Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-put
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-put-openapi.md
+- name: Jumpseller - Get Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-get-openapi.md
+- name: Jumpseller - Put Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-put
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-put-openapi.md
+- name: Jumpseller - Get Products Variants
+  x-api-slug: productsidvariants-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariants-json-get-openapi.md
+- name: Jumpseller - Post Products Variants
+  x-api-slug: productsidvariants-json-post
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariants-json-post-openapi.md
 - name: Jumpseller - Get Products Variants Count
   x-api-slug: productsidvariantscount-json-get
   description: ""
@@ -40,6 +150,107 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantscount-json-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantscount-json-get-openapi.md
+- name: Jumpseller - Get Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-get-openapi.md
+- name: Jumpseller - Put Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-put
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-put-openapi.md
+- name: Jumpseller - Put Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-put
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-put-openapi.md
+- name: Jumpseller - Get Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-get-openapi.md
+- name: Jumpseller - Put Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-put
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-put-openapi.md
+- name: Jumpseller - Get Products Variants Variant
+  x-api-slug: productsidvariantsvariant-id-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantsvariant-id-json-get-openapi.md
+- name: Jumpseller - Get Products Variants Count
+  x-api-slug: productsidvariantscount-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantscount-json-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariantscount-json-get-openapi.md
+- name: Jumpseller - Post Products Variants
+  x-api-slug: productsidvariants-json-post
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariants-json-post-openapi.md
+- name: Jumpseller - Get Products Variants
+  x-api-slug: productsidvariants-json-get
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28432-jumpseller-api.jpg
+  humanURL: http://jumpseller.com
+  baseURL: https://api.jumpseller.com//v1
+  tags: Technology, Commerce, Stores, Affiliates, API Provider, Profiles, General
+    Data, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/variations/master/_listings/jumpseller/productsidvariants-json-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://isendpro.telecom.api.gallery.streamdata.io
